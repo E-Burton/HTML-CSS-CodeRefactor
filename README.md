@@ -16,4 +16,4 @@ Below is a screenshot of the web application's appearance and functionality.
 
 ## Link to Website
 
-[go](https://e-burton.github.io/HTML-CSS-CodeRefactor/){:target="\_blank" rel="noopener"}
+https://e-burton.github.io/HTML-CSS-CodeRefactor/
